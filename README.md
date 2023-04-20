@@ -1,5 +1,5 @@
 # Stroke_Prediction
-Stroke prediction project is an Artificial Intelligence (AI) based project that aims to predict the likelihood of a person having a stroke. The project uses a dataset of medical records of individuals and employs machine learning algorithms to analyze various factors that may contribute to a person having a stroke such as age, gender, hypertension, heart disease, etc.
+Stroke prediction project is an Machine Learing based project that aims to predict the likelihood of a person having a stroke. The project uses a dataset of medical records of individuals and employs machine learning algorithms to analyze various factors that may contribute to a person having a stroke such as age, gender, hypertension, heart disease, etc.
 
 The project involves data preprocessing, exploratory data analysis (EDA), feature engineering, model selection, and evaluation. The selected model is then deployed to make predictions on new unseen data.
 

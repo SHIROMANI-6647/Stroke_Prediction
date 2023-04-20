@@ -5,4 +5,4 @@ The project involves data preprocessing, exploratory data analysis (EDA), featur
 
 This project is important because stroke is a leading cause of death and disability worldwide, and early prediction and diagnosis can save lives and improve health outcomes. The project can be used by medical practitioners to assist in the diagnosis of stroke and by individuals to assess their own risk of having a stroke.
 
-This project is hosted on GitHub and is available for anyone to use, modify, or contribute to. It is built using Python and various machine learning libraries such as scikit-learn, pandas, and matplotlib. 
+ It is built using Python and various machine learning libraries such as scikit-learn, pandas, and matplotlib. 
